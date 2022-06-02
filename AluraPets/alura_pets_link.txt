@@ -1,5 +1,2 @@
 https://app.powerbi.com/view?r=eyJrIjoiYzcyODYwYzctYmY1Yi00N2YzLWE3YWUtNjRlNDAwYjU4YjUzIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9&pageName=ReportSection
 
-
-
-<iframe title="alura_pets" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzcyODYwYzctYmY1Yi00N2YzLWE3YWUtNjRlNDAwYjU4YjUzIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
