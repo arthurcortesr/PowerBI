@@ -2,4 +2,3 @@ https://app.powerbi.com/view?r=eyJrIjoiYmM5YTNkODktYjA0ZC00MWY0LTkzNzAtMjZmM2JlY
 
 
 
-<iframe title="alura_ebook" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmM5YTNkODktYjA0ZC00MWY0LTkzNzAtMjZmM2JlYzcwNzc4IiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9&pageName=ReportSectionb396f13288581c94c578" frameborder="0" allowFullScreen="true"></iframe>
