@@ -1,4 +1,1 @@
 https://app.powerbi.com/view?r=eyJrIjoiZGMxYTgwYWYtNzRhOS00YjIzLWIxNzItZjdmYzVkMThjN2RiIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9
-
-
-<iframe title="alura_ecommerce - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGMxYTgwYWYtNzRhOS00YjIzLWIxNzItZjdmYzVkMThjN2RiIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
