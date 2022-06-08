@@ -1,6 +1,6 @@
 # Dashboard Alura EBook
 
-Este dashboard foi feito como exercício a plataforma Alura, do curso [Dashboard com Power BI: visualizando dados](https://cursos.alura.com.br/course/power-bi-visualizando-dados)
+Este dashboard foi feito como exercício do curso [Dashboard com Power BI: visualizando dados](https://cursos.alura.com.br/course/power-bi-visualizando-dados), na plataforma Alura
 
 Foi feito uma análise em cima de questões levantadas pela dona do clube do livro referentes a quantidade total de assinantes inativos, vendas e metas de vendas e acerca dos seus clientes.
 
