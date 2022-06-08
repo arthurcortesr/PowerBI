@@ -1,6 +1,6 @@
 # Dashboard Alura E-Commerce
 
-Este dashboard foi feito como exercício do curso [Power BI Desktop: tratamento de dados no Power Query]([https://cursos.alura.com.br/course/power-bi-visualizando-dados](https://cursos.alura.com.br/course/power-bi-desktop-tratamento-dados-power-query)), na plataforma [Alura](https://www.alura.com.br/)
+Este dashboard foi feito como exercício do curso [Power BI Desktop: tratamento de dados no Power Query](https://cursos.alura.com.br/course/power-bi-desktop-tratamento-dados-power-query), na plataforma [Alura](https://www.alura.com.br/)
 
 Foi feito um tratamento profundo dos dados utilizados e uma analise em cima de tais dados para a criação do dashboard.
 
