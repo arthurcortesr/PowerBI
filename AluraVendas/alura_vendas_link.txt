@@ -1,0 +1,5 @@
+https://app.powerbi.com/view?r=eyJrIjoiNDk4MThjMjMtOGY4Yi00NTlkLWE5MjUtNWNiZmVkOTkzYTI4IiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9
+
+
+
+<iframe title="relatorio_de_vendas - Dashboard de vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDk4MThjMjMtOGY4Yi00NTlkLWE5MjUtNWNiZmVkOTkzYTI4IiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
