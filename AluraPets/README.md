@@ -1,4 +1,4 @@
-# Dashboard Alura Pets
+# Dashboard Alura RH
 
 Este dashboard foi feito como exercício do curso [Power BI: explorando recursos visuais](https://cursos.alura.com.br/course/power-bi-explorando-recursos-visuais) na plataforma [Alura](https://www.alura.com.br/)
 
