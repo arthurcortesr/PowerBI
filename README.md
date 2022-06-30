@@ -10,3 +10,4 @@ Este repositório contém projetos e dashboards feitos utilizando o Power BI. Ca
 - [Alura E-Book](https://github.com/arthurcortesr/PowerBI/tree/main/AluraEbook)
 - [Alura E-Commerce](https://github.com/arthurcortesr/PowerBI/tree/main/AluraECommerce)
 - [Alura Vendas](https://github.com/arthurcortesr/PowerBI/tree/main/AluraVendas)
+- [Alura RH] (https://github.com/arthurcortesr/PowerBI/tree/main/AluraRH)
