@@ -1,5 +1,1 @@
 https://app.powerbi.com/view?r=eyJrIjoiNDliZWQxNWUtMzA2My00N2Q1LTk0NWYtNGM5ZGUzNjBkZjcxIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9
-
-
-
-<iframe title="alura_log - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNDliZWQxNWUtMzA2My00N2Q1LTk0NWYtNGM5ZGUzNjBkZjcxIiwidCI6ImQ2YzQyZTc1LTI2ZDktNDFlMi05MDczLWZlNjc0MjViMDRiYiJ9" frameborder="0" allowFullScreen="true"></iframe>
