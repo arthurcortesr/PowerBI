@@ -12,4 +12,5 @@ Este repositório contém projetos e dashboards feitos utilizando o Power BI. Ca
 - [Alura Vendas](https://github.com/arthurcortesr/PowerBI/tree/main/AluraVendas)
 - [Alura RH](https://github.com/arthurcortesr/PowerBI/tree/main/AluraRH)
 - [Challenge BI 1 - Semana 1 - Alura Log](https://github.com/arthurcortesr/PowerBI/tree/main/Challenge%20BI%201%20-%20Semana%201%20-%20Alura%20Log)
-- [Challenge BI 1 - Semana 2 - Alura Shop](https://github.com/arthurcortesr/PowerBI/tree/main/AluraShop)
+- [Challenge BI 1 - Semana 2 - Alura Shop](https://github.com/arthurcortesr/PowerBI/tree/main/Challenge%20BI%201%20-%20Semana%202%20-%20Alura%20Shop)
+- [Challenge BI 2 - Semana 1 - Alura Films]()
